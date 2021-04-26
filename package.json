@@ -42,6 +42,13 @@
       ],
       "configuration": "./language-configuration.json"
     }],
+    "iconThemes": [
+      {
+        "id": "lpc",
+        "label": "LPC File Icons",
+        "path": "./fileicons/lpc-icon-theme.json"
+      }
+    ],
     "grammars": [{
       "language": "lpc",
       "scopeName": "source.lpc",
